@@ -1,0 +1,107 @@
+7
+@SIH Idea submission- Template
+Kindly keep the maximum slides limit up to six 
+(6). 
+( Including the 
+title slide) 
+Try to avoid paragraphs and post your idea in points /diagrams / Infographics /pictures 
+Keep your explanation precise and easy to understand
+Idea should be unique and novel. 
+You can only use provided 
+template
+ for making the 
+PPT
+ without changing the idea details pointers (mentioned in previous slides).
+You need to save the file in PDF and upload the same on portal. No PPT, Word Doc or any other format will be supported.
+Note - You can delete this slide (Important Pointers) when you upload the details of your idea on SIH portal.
+IMPORTANT INSTRUCTIONS
+Farmer App → Backend/API → AI Vision → Market Data → Processor Database → Logistics → Decision Engine → Recommendation
+Problem
+Proposed Solution (Describe your Idea/Solution/Prototype)
+Detailed explanation of the proposed solution
+ How it addresses the problem
+Innovation and uniqueness of the solution 
+2
+@SIH Idea submission- Template
+• Post-harvest losses due to uninformed decisions
+• Fragmented market/processor information
+• Lack of quality-based selling decisions
+• Small farmer quantities lack bargaining power
+• Transportation/storage challenges
+• Limited access to processing/value addition
+Smart Aggregation & Processing
+Details / Links of the reference and research work
+6
+@SIH Idea submission- Template
+• Multiple small farmers being aggregated into bulk quantities
+• Connect aggregated produce to suitable processors
+• Value addition and waste reduction by diverting lower-grade fresh produce to processing (e.g. purees, compost)
+TITLE PAGE
+KrishiSetu AI
+AI-Powered Post-Harvest Decision & Value Optimization Platform
+SIH Problem Statement 26193
+Agriculture, FoodTech & Rural Development
+Tagline: From Harvest to Highest Value.
+AI & Decision Engine
+Potential impact on the target audience
+Benefits of the solution (social, economic, environmental, etc.)
+5
+@SIH Idea submission- Template
+• Computer vision for quality assessment
+• Price/demand analysis
+• Processor matching algorithm
+• Net-value calculation (Price - Logistics - Processing)
+• Recommendation engine
+How the System Works
+Analysis of the feasibility of the idea
+Potential challenges and risks
+Strategies
+ for overcoming these challenges
+4
+@SIH Idea submission- Template
+1. Farmer enters crop, quantity, location and harvest information.
+2. Uploads produce image.
+3. AI performs preliminary quality assessment.
+4. System compares Sell / Store / Process / Aggregate.
+5. Best option is recommended.
+6. Farmer can connect directly with buyer/processor.
+Proposed Solution
+Technologies to be used (e.g. programming languages, frameworks, hardware)
+Methodology and process for implementation (Flow Charts/Images/ working prototype)
+3
+@SIH Idea submission- Template
+KrishiSetu AI: An AI-powered post-harvest decision and value-optimization platform.
+Flow: Farmer → Quality → Market → Processor → Logistics → Best Action
+Options:
+1. SELL (Direct to Market)
+2. STORE (Cold Storage)
+3. PROCESS (Value Addition)
+4. AGGREGATE (Bulk pooling)
+Technology Stack
+• Frontend: Flutter / React
+• Backend: Python / FastAPI
+• Database: PostgreSQL / PostGIS
+• AI/Vision: OpenCV, PyTorch/TensorFlow, YOLO, XGBoost/LightGBM
+• Infrastructure: Maps/Routing APIs, Cloud deployment
+Innovation / USP
+Traditional approach:
+“Information → Farmer decides”
+KrishiSetu AI:
+“Data + AI → Decision → Execution”
+USP: “We don't just tell farmers the price. We tell them the best action for their produce.”
+Impact
+• Reduced avoidable post-harvest losses
+• Better farmer market access
+• Improved net value realization
+• More produce directed toward processing
+• Lower logistics inefficiency
+• Better processor utilization
+Feasibility & Scalability
+• Start with tomato as MVP
+• Pilot with farmers / FPOs / processors
+• Expand to multiple crops
+• District → State → National scale
+Conclusion
+“From Harvest → Intelligence → Action → Value”
+KrishiSetu AI aims to reduce avoidable losses and improve value realization from agricultural produce.
+Team name, college and members

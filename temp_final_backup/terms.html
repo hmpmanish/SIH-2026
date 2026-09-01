@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms and Conditions | KrishiSetu Post-Harvest Advisory System</title>
+    <meta name="description" content="Terms of Service and Operational Conditions for KrishiSetu post-harvest decision and verification platform.">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body data-theme="light">
+    <nav class="navbar glass-panel">
+        <div class="nav-brand" style="cursor: pointer;" onclick="window.location.href='index.html'">
+            <i class="fa-solid fa-leaf text-primary"></i> <span>KrishiSetu</span>
+        </div>
+        <div class="nav-links">
+            <a href="index.html" class="nav-link"><i class="fa-solid fa-house"></i> Home</a>
+            <a href="dealers.html" class="nav-link"><i class="fa-solid fa-list-check"></i> Verified Dealers</a>
+            <a href="research.html" class="nav-link"><i class="fa-solid fa-flask"></i> Research</a>
+            <a href="technical-approach.html" class="nav-link"><i class="fa-solid fa-microchip"></i> Architecture</a>
+            <button class="btn btn-outline btn-sm ml-2" onclick="toggleTheme()" title="Toggle Dark/Light Mode"><i class="fa-solid fa-moon"></i></button>
+        </div>
+    </nav>
+
+    <main class="main-content" style="max-width: 900px; margin-top: 90px;">
+        <div class="card mb-3" style="border-top: 4px solid var(--primary-color);">
+            <div class="flex items-center gap-1 text-sm text-secondary mb-1">
+                <i class="fa-solid fa-file-contract text-primary"></i> Official Platform Operational Agreement
+            </div>
+            <h1 style="font-size: 2.2rem; margin-bottom: 10px;">Terms and Conditions</h1>
+            <p class="text-secondary text-sm">Last Updated: September 11, 2026 | Effective Date: September 11, 2026</p>
+            <p class="text-secondary text-sm">Governing User Rights, Algorithmic Advisory Disclaimers, and Verification Protocol</p>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">1. Agreement to Terms</h2>
+            <p class="mb-2">By accessing or using the KrishiSetu portal, decision engine algorithms, directory listings, or QR verification services, you agree to be legally bound by these Terms and Conditions. If you do not agree to these terms, you must discontinue platform use immediately.</p>
+            <p>These terms apply uniformly to all users, including individual farmers, Farmer Producer Organizations (FPOs), commission agents, cold chain warehousemen, and industrial agro-processors.</p>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">2. Advisory Nature of Algorithmic Outputs</h2>
+            <p class="mb-2"><strong>Decision Support System Only:</strong> KrishiSetu provides algorithmic recommendations categorized into SELL, STORE, PROCESS, or RESCUE based upon user-provided batch parameters, historical perishability matrices, and simulated wholesale market data.</p>
+            <ul style="list-style-type: square; margin-left: 24px; margin-bottom: 16px;" class="text-secondary">
+                <li class="mb-1">Recommendations do not constitute guaranteed commercial returns, minimum support price assurances, or mandatory trading instructions.</li>
+                <li class="mb-1">The primary decision-maker remains the farmer or agricultural asset holder. Users retain complete discretion to accept, reject, or override any system recommendation.</li>
+                <li class="mb-1">Simulated camera computer vision (YOLOv8 quality screening) is an auxiliary grading simulation and does not replace statutory AGMARK laboratory certifications.</li>
+            </ul>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">3. User Obligations and Integrity of Declarations</h2>
+            <p class="mb-2">Users entering batch records into the KrishiSetu ledger must:</p>
+            <ul style="list-style-type: square; margin-left: 24px; margin-bottom: 16px;" class="text-secondary">
+                <li class="mb-1">Provide truthful and accurate assessments of harvest volume, harvest timestamp, and physical visible defects.</li>
+                <li class="mb-1">Refrain from uploading manipulated imagery, fraudulent entity license identifiers, or counterfeit APMC registration records.</li>
+                <li class="mb-1">Acknowledge that false declarations compromise the integrity of downstream traceability QR codes and may lead to directory blacklisting.</li>
+            </ul>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">4. Verified Entity Directory & Third-Party Linkages</h2>
+            <p class="mb-2">The KrishiSetu directory lists processors, cold storage operators, and seed dealers with simulated verified credentials. In production environments, credentials reflect cross-checks with state APMC registries and national FSSAI portals.</p>
+            <p>While KrishiSetu verifies the existence of statutory business registration records, KrishiSetu does not act as a mercantile escrow agent or commercial guarantor for off-platform payment settlements or transit damage disputes.</p>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">5. Limitation of Liability</h2>
+            <p class="mb-2">To the maximum extent permitted under applicable Indian law, KrishiSetu, its developers, evaluators, and affiliated hackathon researchers shall not be held liable for:</p>
+            <ul style="list-style-type: square; margin-left: 24px; margin-bottom: 16px;" class="text-secondary">
+                <li class="mb-1">Unforeseen post-harvest crop spoilage resulting from environmental weather shocks, transit blockades, or mechanical breakdown of third-party cold stores.</li>
+                <li class="mb-1">Market price fluctuations between the time of algorithmic advisory generation and physical mandi arrival.</li>
+                <li class="mb-1">Any indirect, incidental, punitive, or consequential loss arising from reliance upon prototype simulation data.</li>
+            </ul>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">6. Intellectual Property Rights</h2>
+            <p class="mb-2">The architecture, user interface design, decision-matrix formulations, and codebase of KrishiSetu are protected under relevant copyright and intellectual property standards. The project is created under Smart India Hackathon 2026 guidelines for agricultural advancement.</p>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">7. Governing Law & Dispute Resolution</h2>
+            <p class="mb-2">These Terms and Conditions shall be governed by and construed in accordance with the laws of the Republic of India. Any legal dispute or claim arising out of or in connection with the platform shall be subject to the exclusive jurisdiction of the competent courts of New Delhi, India.</p>
+        </div>
+    </main>
+
+    <footer class="mt-4" style="background: var(--surface-glass); border-top: 1px solid var(--border-color); padding: 30px 20px; text-align: center;">
+        <div style="max-width: 800px; margin: 0 auto;">
+            <p class="text-secondary text-sm mb-2">
+                <a href="index.html" class="nav-link">Home</a> | 
+                <a href="dealers.html" class="nav-link">Verified Dealers</a> | 
+                <a href="research.html" class="nav-link">Research Validation</a> | 
+                <a href="technical-approach.html" class="nav-link">Architecture</a> | 
+                <a href="privacy.html" class="nav-link">Privacy Policy</a> | 
+                <a href="terms.html" class="nav-link" style="color: var(--primary-color); font-weight: bold;">Terms and Conditions</a>
+            </p>
+            <p class="text-sm text-muted">© 2026 KrishiSetu. Post-Harvest Decision Intelligence and Trust Ecosystem.</p>
+        </div>
+    </footer>
+
+    <script>
+        function toggleTheme() {
+            const current = document.body.getAttribute('data-theme') || 'light';
+            const next = current === 'dark' ? 'light' : 'dark';
+            document.body.setAttribute('data-theme', next);
+            localStorage.setItem('krishisetu_theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('krishisetu_theme');
+            if (saved) document.body.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
