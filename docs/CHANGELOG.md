@@ -35,3 +35,4 @@ Comprehensive development activity tracking:
 - [2026-09-01T16:45:43+05:30] [hmpmanish] feat(backend): configure FastAPI settings and routing infrastructure
 - [2026-09-01T17:00:56+05:30] [hmpmanish] feat(models): implement SQLAlchemy and Pydantic batch entities
 - [2026-09-01T17:15:09+05:30] [hmpmanish] feat(engine): add shelf-life decay degradation regression heuristics
+- [2026-09-01T17:30:22+05:30] [hmpmanish] feat(api): add harvest batch submission and verification endpoints
