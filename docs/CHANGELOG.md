@@ -7,3 +7,4 @@ Comprehensive development activity tracking:
 - [2026-09-01T09:45:39+05:30] [ranavanshika249-dev] feat(compliance): add Terms and Conditions and advisory disclaimers
 - [2026-09-01T10:00:52+05:30] [ranavanshika249-dev] fix(i18n): update translation strings for post-harvest decision actions
 - [2026-09-01T10:15:05+05:30] [ranavanshika249-dev] feat(directory): add interactive map view and district selector
+- [2026-09-01T10:30:18+05:30] [ranavanshika249-dev] style(directory): format dealer cards with verified credentials badges
