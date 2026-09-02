@@ -86,3 +86,4 @@ Comprehensive development activity tracking:
 - [2026-09-02T18:15:46+05:30] [ranavanshika249-dev] feat(compliance): add official Privacy Policy compliant with DPDPA 2023
 - [2026-09-02T18:30:59+05:30] [ranavanshika249-dev] feat(compliance): add Terms and Conditions and advisory disclaimers
 - [2026-09-02T18:45:12+05:30] [ranavanshika249-dev] fix(i18n): update translation strings for post-harvest decision actions
+- [2026-09-02T19:00:25+05:30] [ranavanshika249-dev] feat(directory): add interactive map view and district selector
