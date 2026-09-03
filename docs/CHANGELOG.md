@@ -97,3 +97,4 @@ Comprehensive development activity tracking:
 - [2026-09-03T09:45:09+05:30] [thakurshivani7678-cyber] test(engine): validate degradation score bounds across perishable produce
 - [2026-09-03T10:00:22+05:30] [thakurshivani7678-cyber] refactor(storage): ensure offline-first recovery of active harvest batches
 - [2026-09-03T10:15:35+05:30] [thakurshivani7678-cyber] feat(models): implement batch data schemas and evaluation models
+- [2026-09-03T10:30:48+05:30] [hmpmanish] feat(ui): add dashboard telemetry charts and KPI widgets
