@@ -95,3 +95,4 @@ Comprehensive development activity tracking:
 - [2026-09-03T09:15:43+05:30] [thakurshivani7678-cyber] feat(storage): implement local persistence layer and state synchronization
 - [2026-09-03T09:30:56+05:30] [thakurshivani7678-cyber] feat(engine): implement post-harvest decision logic and shelf-life matrices
 - [2026-09-03T09:45:09+05:30] [thakurshivani7678-cyber] test(engine): validate degradation score bounds across perishable produce
+- [2026-09-03T10:00:22+05:30] [thakurshivani7678-cyber] refactor(storage): ensure offline-first recovery of active harvest batches
