@@ -153,3 +153,4 @@ Comprehensive development activity tracking:
 - [2026-09-04T12:30:17+05:30] [hridyeshswami] feat(research): scaffold research index page with ICAR empirical loss data
 - [2026-09-04T12:45:30+05:30] [thakurshivani7678-cyber] feat(models): implement batch data schemas and evaluation models
 - [2026-09-04T13:00:43+05:30] [thakurshivani7678-cyber] feat(storage): implement local persistence layer and state synchronization
+- [2026-09-04T13:15:56+05:30] [thakurshivani7678-cyber] feat(engine): implement post-harvest decision logic and shelf-life matrices
