@@ -218,3 +218,4 @@ Comprehensive development activity tracking:
 - [2026-09-05T17:30:22+05:30] [hmpmanish] feat(api): add harvest batch submission and verification endpoints
 - [2026-09-05T17:45:35+05:30] [hmpmanish] feat(data): seed wholesale mandi rates and localized commodity pricing
 - [2026-09-05T18:00:48+05:30] [hmpmanish] feat(ui): add dashboard telemetry charts and KPI widgets
+- [2026-09-05T18:15:01+05:30] [ranavanshika249-dev] docs(compliance): align privacy policy with agricultural data governance rules
