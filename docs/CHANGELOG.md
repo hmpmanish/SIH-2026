@@ -209,3 +209,4 @@ Comprehensive development activity tracking:
 - [2026-09-05T15:15:25+05:30] [hmpmanish] refactor(state): streamline local persistence synchronization routines
 - [2026-09-05T15:30:38+05:30] [hmpmanish] perf(render): minimize DOM repaints during filter and search queries
 - [2026-09-05T15:45:51+05:30] [hmpmanish] fix(navigation): ensure seamless routing between dashboard and verified views
+- [2026-09-05T16:00:04+05:30] [hmpmanish] feat(export): add CSV batch export capability for farmer records
