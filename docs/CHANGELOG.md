@@ -223,3 +223,4 @@ Comprehensive development activity tracking:
 - [2026-09-05T18:45:27+05:30] [ranavanshika249-dev] test(directory): verify APMC license formatting across all dealer records
 - [2026-09-05T19:00:40+05:30] [ranavanshika249-dev] feat(i18n): create Hindi and English localization dictionary
 - [2026-09-05T19:15:53+05:30] [ranavanshika249-dev] feat(directory): create verified agro-dealers registry and APMC filters
+- [2026-09-05T19:30:06+05:30] [ranavanshika249-dev] feat(compliance): add official Privacy Policy compliant with DPDPA 2023
