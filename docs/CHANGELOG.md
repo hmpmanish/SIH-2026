@@ -256,3 +256,4 @@ Comprehensive development activity tracking:
 - [2026-09-06T15:45:36+05:30] [hmpmanish] chore(release): configure Vercel deployment, start scripts, and master README
 - [2026-09-06T16:00:49+05:30] [ranavanshika249-dev] feat(compliance): add Terms and Conditions and advisory disclaimers
 - [2026-09-06T16:15:02+05:30] [ranavanshika249-dev] fix(i18n): update translation strings for post-harvest decision actions
+- [2026-09-06T16:30:15+05:30] [ranavanshika249-dev] feat(directory): add interactive map view and district selector
