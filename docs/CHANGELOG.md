@@ -275,3 +275,4 @@ Comprehensive development activity tracking:
 - [2026-09-07T09:15:43+05:30] [ranavanshika249-dev] feat(directory): create verified agro-dealers registry and APMC filters
 - [2026-09-07T09:30:56+05:30] [ranavanshika249-dev] feat(compliance): add official Privacy Policy compliant with DPDPA 2023
 - [2026-09-07T09:45:09+05:30] [ranavanshika249-dev] feat(compliance): add Terms and Conditions and advisory disclaimers
+- [2026-09-07T10:00:22+05:30] [ranavanshika249-dev] fix(i18n): update translation strings for post-harvest decision actions
