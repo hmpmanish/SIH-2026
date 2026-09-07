@@ -288,3 +288,4 @@ Comprehensive development activity tracking:
 - [2026-09-07T12:30:32+05:30] [thakurshivani7678-cyber] refactor(storage): ensure offline-first recovery of active harvest batches
 - [2026-09-07T12:45:45+05:30] [thakurshivani7678-cyber] feat(models): implement batch data schemas and evaluation models
 - [2026-09-07T13:00:58+05:30] [thakurshivani7678-cyber] feat(storage): implement local persistence layer and state synchronization
+- [2026-09-07T13:15:11+05:30] [thakurshivani7678-cyber] feat(engine): implement post-harvest decision logic and shelf-life matrices
