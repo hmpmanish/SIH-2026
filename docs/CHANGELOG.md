@@ -337,3 +337,4 @@ Comprehensive development activity tracking:
 - [2026-09-08T13:30:09+05:30] [hmpmanish] feat(engine): add shelf-life decay degradation regression heuristics
 - [2026-09-08T13:45:22+05:30] [hmpmanish] feat(api): add harvest batch submission and verification endpoints
 - [2026-09-08T14:00:35+05:30] [hmpmanish] feat(data): seed wholesale mandi rates and localized commodity pricing
+- [2026-09-08T14:15:48+05:30] [hmpmanish] feat(ui): add dashboard telemetry charts and KPI widgets
