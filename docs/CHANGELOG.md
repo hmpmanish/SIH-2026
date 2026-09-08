@@ -359,3 +359,4 @@ Comprehensive development activity tracking:
 - [2026-09-08T19:00:55+05:30] [ranavanshika249-dev] feat(directory): add interactive map view and district selector
 - [2026-09-08T19:15:08+05:30] [ranavanshika249-dev] style(directory): format dealer cards with verified credentials badges
 - [2026-09-08T19:30:21+05:30] [ranavanshika249-dev] docs(compliance): align privacy policy with agricultural data governance rules
+- [2026-09-08T19:45:34+05:30] [ranavanshika249-dev] refactor(i18n): optimize locale switching and storage persistence
