@@ -353,3 +353,4 @@ Comprehensive development activity tracking:
 - [2026-09-08T17:30:37+05:30] [hmpmanish] feat(qr): add encrypted dynamic QR code generator for batch traceability
 - [2026-09-08T17:45:50+05:30] [hmpmanish] refactor(ui): harmonize enterprise color tokens across all dashboard views
 - [2026-09-08T18:00:03+05:30] [hmpmanish] fix(styles): eliminate purple gradients and replace with emerald/teal palettes
+- [2026-09-08T18:15:16+05:30] [ranavanshika249-dev] feat(compliance): add official Privacy Policy compliant with DPDPA 2023
