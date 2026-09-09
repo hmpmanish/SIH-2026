@@ -396,3 +396,4 @@ Comprehensive development activity tracking:
 - [2026-09-09T17:00:56+05:30] [hmpmanish] feat(models): implement SQLAlchemy and Pydantic batch entities
 - [2026-09-09T17:15:09+05:30] [hmpmanish] feat(engine): add shelf-life decay degradation regression heuristics
 - [2026-09-09T17:30:22+05:30] [hmpmanish] feat(api): add harvest batch submission and verification endpoints
+- [2026-09-09T17:45:35+05:30] [hmpmanish] feat(data): seed wholesale mandi rates and localized commodity pricing
