@@ -364,3 +364,4 @@ Comprehensive development activity tracking:
 - [2026-09-08T20:15:00+05:30] [ranavanshika249-dev] feat(i18n): create Hindi and English localization dictionary
 - [2026-09-09T09:15:13+05:30] [ranavanshika249-dev] feat(directory): create verified agro-dealers registry and APMC filters
 - [2026-09-09T09:30:26+05:30] [ranavanshika249-dev] feat(compliance): add official Privacy Policy compliant with DPDPA 2023
+- [2026-09-09T09:45:39+05:30] [ranavanshika249-dev] feat(compliance): add Terms and Conditions and advisory disclaimers
