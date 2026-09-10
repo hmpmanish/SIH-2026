@@ -410,3 +410,4 @@ Comprehensive development activity tracking:
 - [2026-09-10T09:15:58+05:30] [ranavanshika249-dev] style(directory): format dealer cards with verified credentials badges
 - [2026-09-10T09:30:11+05:30] [ranavanshika249-dev] docs(compliance): align privacy policy with agricultural data governance rules
 - [2026-09-10T09:45:24+05:30] [ranavanshika249-dev] refactor(i18n): optimize locale switching and storage persistence
+- [2026-09-10T10:00:37+05:30] [ranavanshika249-dev] test(directory): verify APMC license formatting across all dealer records
