@@ -444,3 +444,4 @@ Comprehensive development activity tracking:
 - [2026-09-10T17:45:20+05:30] [hmpmanish] refactor(ui): harmonize enterprise color tokens across all dashboard views
 - [2026-09-10T18:00:33+05:30] [hmpmanish] fix(styles): eliminate purple gradients and replace with emerald/teal palettes
 - [2026-09-10T18:15:46+05:30] [hmpmanish] style(buttons): replace all pill-shaped buttons with rectangular 6px radius
+- [2026-09-10T18:30:59+05:30] [hmpmanish] docs(readme): expand deployment instructions and architecture schematics
