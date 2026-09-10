@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy | KrishiSetu Post-Harvest Advisory System</title>
+    <meta name="description" content="Official Privacy Policy and Data Governance Framework for KrishiSetu post-harvest decision and trust ecosystem.">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body data-theme="light">
+    <nav class="navbar glass-panel">
+        <div class="nav-brand" style="cursor: pointer;" onclick="window.location.href='index.html'">
+            <i class="fa-solid fa-leaf text-primary"></i> <span>KrishiSetu</span>
+        </div>
+        <div class="nav-links">
+            <a href="index.html" class="nav-link"><i class="fa-solid fa-house"></i> Home</a>
+            <a href="dealers.html" class="nav-link"><i class="fa-solid fa-list-check"></i> Verified Dealers</a>
+            <a href="research.html" class="nav-link"><i class="fa-solid fa-flask"></i> Research</a>
+            <a href="technical-approach.html" class="nav-link"><i class="fa-solid fa-microchip"></i> Architecture</a>
+            <button class="btn btn-outline btn-sm ml-2" onclick="toggleTheme()" title="Toggle Dark/Light Mode"><i class="fa-solid fa-moon"></i></button>
+        </div>
+    </nav>
+
+    <main class="main-content" style="max-width: 900px; margin-top: 90px;">
+        <div class="card mb-3" style="border-top: 4px solid var(--primary-color);">
+            <div class="flex items-center gap-1 text-sm text-secondary mb-1">
+                <i class="fa-solid fa-shield-halved text-primary"></i> Official Regulatory & Compliance Document
+            </div>
+            <h1 style="font-size: 2.2rem; margin-bottom: 10px;">Privacy Policy</h1>
+            <p class="text-secondary text-sm">Last Updated: September 11, 2026 | Effective Date: September 11, 2026</p>
+            <p class="text-secondary text-sm">Compliant with the Digital Personal Data Protection Act (DPDPA 2023) and Information Technology Act, 2000</p>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">1. Introduction & Scope</h2>
+            <p class="mb-2">KrishiSetu ("we", "our", or "platform") operates as an agricultural decision-support and trade-verification platform designed to assist Indian farmers, Farmer Producer Organizations (FPOs), cold storage operators, and licensed agricultural commodity processors. We are committed to upholding the highest standards of data integrity, confidentiality, and farmer autonomy.</p>
+            <p>This Privacy Policy governs the collection, processing, storage, and protection of information submitted when utilizing the KrishiSetu decision engine, directory registries, and verification modules.</p>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">2. Information We Collect</h2>
+            <p class="mb-2">We adhere strictly to the principle of data minimization. The categories of information processed include:</p>
+            <ul style="list-style-type: square; margin-left: 24px; margin-bottom: 16px;" class="text-secondary">
+                <li class="mb-1"><strong>Harvest & Batch Metadata:</strong> Crop species, estimated harvest weight, perceived quality attributes, date of harvest, and expected storage shelf-life.</li>
+                <li class="mb-1"><strong>Geographical Data:</strong> Mandi district and state parameters strictly used for calculating freight distances, proximity to verified processing clusters, and localized market pricing.</li>
+                <li class="mb-1"><strong>Verification & Registry Records:</strong> Government-issued merchant credentials, including APMC license IDs, UDYAM registration numbers, and FSSAI certificates submitted for directory verification.</li>
+                <li class="mb-1"><strong>Technical Diagnostics:</strong> Browser environment, user language preference, and interface interaction timestamps required to maintain session security and prevent fraudulent access.</li>
+            </ul>
+            <p><strong>Note:</strong> KrishiSetu does not collect Aadhaar biometrics, financial credit card numbers, or proprietary land title deeds.</p>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">3. Purpose of Processing & Legal Basis</h2>
+            <p class="mb-2">We process collected data exclusively for legitimate agricultural facilitation purposes:</p>
+            <ul style="list-style-type: square; margin-left: 24px; margin-bottom: 16px;" class="text-secondary">
+                <li class="mb-1">Executing mathematical degradation curves to predict remaining shelf-life under ambient versus cold storage conditions.</li>
+                <li class="mb-1">Generating objective, rule-based recommendations across four distinct pathways: Sell, Store, Process, or Rescue.</li>
+                <li class="mb-1">Facilitating cryptographic verification of batch provenance via standardized QR-encoded digital batch certificates.</li>
+                <li class="mb-1">Preventing market fraud by verifying dealer and processor credentials against simulated regulatory rosters.</li>
+            </ul>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">4. Prohibition of Data Monetization</h2>
+            <p class="mb-2"><strong>Zero Third-Party Advertising:</strong> KrishiSetu does not sell, lease, rent, or trade farmer personal or operational data to data brokers, advertising networks, or speculative commodity trading desks.</p>
+            <p>Aggregated, strictly non-personally identifiable statistical summaries (such as regional tomato arrival volumes) may be analyzed solely to enhance agricultural research and logistics infrastructure planning.</p>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">5. Data Storage, Security & Retention</h2>
+            <p class="mb-2">All data transmissions are secured using standard Transport Layer Security (TLS 1.3). Batch records stored within the browser utilize encrypted LocalStorage sandboxes and are retained only as long as necessary to serve operational tracking needs.</p>
+            <p>Users may clear locally cached batch timelines at any time using the "Reset Demo Data" control located in the role selection interface.</p>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">6. Rights of Data Principals (Farmers & Users)</h2>
+            <p class="mb-2">In compliance with Section 11 of the Digital Personal Data Protection Act, you possess the right to:</p>
+            <ul style="list-style-type: square; margin-left: 24px; margin-bottom: 16px;" class="text-secondary">
+                <li class="mb-1"><strong>Right to Access:</strong> View all active batch records and directory profiles linked to your identifier.</li>
+                <li class="mb-1"><strong>Right to Correction:</strong> Update outdated quality grades, remaining shelf-life days, or business contact information.</li>
+                <li class="mb-1"><strong>Right to Erasure:</strong> Request permanent deletion of batch records and grievance filings.</li>
+                <li class="mb-1"><strong>Right of Grievance Redressal:</strong> File a formal inquiry regarding suspected data mishandling.</li>
+            </ul>
+        </div>
+
+        <div class="card mb-3">
+            <h2 class="mb-2" style="font-size: 1.4rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">7. Grievance Redressal Officer</h2>
+            <p class="mb-2">For inquiries, data correction requests, or privacy concerns, contact our designated Data Protection Officer:</p>
+            <div style="background: var(--surface-color); padding: 16px; border: 1px solid var(--border-color); border-radius: 6px;">
+                <p><strong>Officer:</strong> Grievance Redressal Cell, KrishiSetu</p>
+                <p><strong>Email:</strong> compliance@krishisetu.gov.in (Simulated Domain)</p>
+                <p><strong>Response Turnaround:</strong> Within 48 business hours as mandated by Indian IT guidelines.</p>
+            </div>
+        </div>
+    </main>
+
+    <footer class="mt-4" style="background: var(--surface-glass); border-top: 1px solid var(--border-color); padding: 30px 20px; text-align: center;">
+        <div style="max-width: 800px; margin: 0 auto;">
+            <p class="text-secondary text-sm mb-2">
+                <a href="index.html" class="nav-link">Home</a> | 
+                <a href="dealers.html" class="nav-link">Verified Dealers</a> | 
+                <a href="research.html" class="nav-link">Research Validation</a> | 
+                <a href="technical-approach.html" class="nav-link">Architecture</a> | 
+                <a href="privacy.html" class="nav-link" style="color: var(--primary-color); font-weight: bold;">Privacy Policy</a> | 
+                <a href="terms.html" class="nav-link">Terms and Conditions</a>
+            </p>
+            <p class="text-sm text-muted">© 2026 KrishiSetu. Post-Harvest Decision Intelligence and Trust Ecosystem.</p>
+        </div>
+    </footer>
+
+    <script>
+        function toggleTheme() {
+            const current = document.body.getAttribute('data-theme') || 'light';
+            const next = current === 'dark' ? 'light' : 'dark';
+            document.body.setAttribute('data-theme', next);
+            localStorage.setItem('krishisetu_theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('krishisetu_theme');
+            if (saved) document.body.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
