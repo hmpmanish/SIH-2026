@@ -463,3 +463,4 @@ Comprehensive development activity tracking:
 - [2026-09-11T10:59:27+05:30] [thakurshivani7678-cyber] refactor(storage): ensure offline-first recovery of active harvest batches
 - [2026-09-11T11:12:40+05:30] [thakurshivani7678-cyber] feat(models): implement batch data schemas and evaluation models
 - [2026-09-11T11:25:53+05:30] [hmpmanish] feat(assets): add official vector favicon and high-resolution icons
+- [2026-09-11T11:38:06+05:30] [hmpmanish] chore(release): configure Vercel deployment, start scripts, and master README
